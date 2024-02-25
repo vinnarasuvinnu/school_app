@@ -1,3 +1,7 @@
+To run project 
+  flutter pub get
+  flutter run or use android studio or any editor
+
 # flutter_application
 
 A new Flutter project.
